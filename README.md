@@ -1,5 +1,8 @@
 # golang article backend application
 
+## Olzhas Imangeldin SE-2201
+## Alibek Zhampeisov SE-2201
+
 ## installation
 
 1. `git clone https://github.com/asuramaruq/golang-final.git`
